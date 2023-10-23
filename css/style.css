@@ -4,10 +4,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-
-
-
-
+/* RU: 4309106, Matheus Olavo Marques Luna */
 .conteiner{
     display: flex;
     background-color: #fcf6f6e7;
@@ -70,6 +67,7 @@
     font-weight: 200;
 
 }
+
 #nome{
     font-size: 4rem;
     font-style: normal;

@@ -73,7 +73,7 @@
     padding: 2% 5%;
     
 }
-.xd{
+.xd{  /*essa class tem esse nome porque estava testando e acabei deixando assim mesmo */
     display: flex;
     justify-content: space-around;
     align-items: center;
